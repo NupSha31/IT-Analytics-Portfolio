@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache (for future use)
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Power BI temporary files
+*.pbix.tmp
+
+# Excel temporary files
+~$*.xlsx
+
+# Environment files
+.env
